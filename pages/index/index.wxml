@@ -8,10 +8,11 @@
     </block> -->
   <!-- </view>  -->
   <!-- </view> -->
-  <view class="usermotto">
+  <view class="usermotto"> 
     <text class="user-motto">{{motto}}</text>
   </view>
   <button size="mini">按钮</button>
-  <image src="yello"></image>
-<view>添加分支</view>
+  <view>添加分支</view>
+  <view>呵呵呵</view>
+
 
