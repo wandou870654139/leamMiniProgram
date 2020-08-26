@@ -1,0 +1,5 @@
+<!--components/my-slot/my-slot.wxml-->
+<text>我是组件头部</text>
+<slot></slot>
+<text>我是组件尾部法官个</text>
+
